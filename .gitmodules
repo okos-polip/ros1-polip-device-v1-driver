@@ -1,0 +1,3 @@
+[submodule "src/polip_device_v1"]
+	path = src/polip_device_v1
+	url = git@github.com:okos-polip/python-polip-device-v1-client.git
